@@ -1,0 +1,9 @@
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\bin\Release\CheckStickerTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\bin\Release\CheckStickerTestProject.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\bin\Release\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\bin\Release\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\bin\Release\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\bin\Release\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\obj\Release\CheckStickerTestProject.csprojResolveAssemblyReference.cache
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\obj\Release\CheckStickerTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckStickerTestProject\CheckStickerTestProject\obj\Release\CheckStickerTestProject.pdb
